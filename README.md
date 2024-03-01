@@ -167,7 +167,11 @@ visited = defaultdict(bool)
 traversedpath = bfs(graph,start,visited,path)
 print(traversedpath)
 ```
+##Output:
 
+![308508633-23dfe256-8ba3-4248-945c-15e69ac529a5](https://github.com/swethaDhanraj/19AI405ExpNo3/assets/151993685/548bc59b-97f4-49e3-b650-02b16cce33c6)
+
+![308508676-81f29ba8-267b-4df9-ba84-713ef8381d6c](https://github.com/swethaDhanraj/19AI405ExpNo3/assets/151993685/50a99efe-02df-4e08-b276-ab39d60999f9)
 
 <hr>
 <h3>Result:</h3>
